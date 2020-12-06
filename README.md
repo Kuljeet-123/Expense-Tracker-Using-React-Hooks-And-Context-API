@@ -1,10 +1,13 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Expense Tracker Using React-Hooks and Context-API
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
+
+Clone the repo and run this command in the terminal.
+
 
 ### `npm start`
 
